@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Marco Rubino
 
-<!--
-**marcorubino320-cyber/marcorubino320-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WordPress Developer | WooCommerce | Technical Troubleshooting
 
-Here are some ideas to get you started:
+📍 Córdoba, Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build, troubleshoot and maintain WordPress websites, with a focus on WooCommerce, customizations, integrations and technical problem solving.
+
+## 🔧 What I work with
+
+* WordPress & WooCommerce
+* PHP & MySQL
+* JavaScript
+* REST APIs & integrations
+* Custom plugins
+* ACF, Custom Post Types & WP_Query
+* Gutenberg, Kadence & Elementor
+* DNS, SSL & Cloudflare
+* Performance optimization
+* Migrations & maintenance
+
+## 🧪 Currently building
+
+* WordPress plugins and development tools
+* WooCommerce debugging utilities
+* API integrations
+* Technical experiments around the WordPress ecosystem
+
+## 🌱 Currently learning
+
+* Advanced PHP
+* WordPress internals
+* Linux & Docker
+* Backend debugging
+* Server-side WordPress workflows
+
+## 🧠 How I approach technical problems
+
+**Observe → Isolate → Diagnose → Fix → Verify**
+
+I prefer understanding the root cause of a problem before applying a fix.
+
+## 🚀 Featured projects
+
+Coming soon.
