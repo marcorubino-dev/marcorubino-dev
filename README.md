@@ -40,6 +40,6 @@ I build, troubleshoot and maintain WordPress websites, with a focus on WooCommer
 
 I prefer understanding the root cause of a problem before applying a fix.
 
-## 🚀 Featured projects
+## 🚀 Open source & experiments
 
-Coming soon.
+I use GitHub to document projects, technical experiments and development work across the WordPress ecosystem.
