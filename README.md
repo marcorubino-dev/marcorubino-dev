@@ -25,9 +25,8 @@ I use GitHub to document development work, technical experiments and projects re
 
 ## 🌱 Currently learning
 
-* Advanced PHP
+* PHP
 * WordPress internals
-* Linux & Docker
 * Backend debugging
 * Server-side WordPress workflows
 
