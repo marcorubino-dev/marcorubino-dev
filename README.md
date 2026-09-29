@@ -19,12 +19,9 @@ I build, troubleshoot and maintain WordPress websites, with a focus on WooCommer
 * Performance optimization
 * Migrations & maintenance
 
-## 🧪 Currently building
+## 🧪 Projects & experiments
 
-* WordPress plugins and development tools
-* WooCommerce debugging utilities
-* API integrations
-* Technical experiments around the WordPress ecosystem
+I use GitHub to document development work, technical experiments and projects related to the WordPress ecosystem.
 
 ## 🌱 Currently learning
 
@@ -39,7 +36,3 @@ I build, troubleshoot and maintain WordPress websites, with a focus on WooCommer
 **Observe → Isolate → Diagnose → Fix → Verify**
 
 I prefer understanding the root cause of a problem before applying a fix.
-
-## 🚀 Open source & experiments
-
-I use GitHub to document projects, technical experiments and development work across the WordPress ecosystem.
