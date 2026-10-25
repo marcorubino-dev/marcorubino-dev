@@ -1,37 +1,50 @@
-# Hi 👋, I'm Marco Rubino
+# Hi, I'm Marco Rubino 👋
 
-### WordPress Developer | WooCommerce | Technical Troubleshooting
+**WordPress Developer | WooCommerce | Technical Troubleshooting**
 
 📍 Córdoba, Argentina
 
-I build, troubleshoot and maintain WordPress websites, with a focus on WooCommerce, customizations, integrations and technical problem solving.
+I develop and customize WordPress websites and plugins, with a focus on WooCommerce functionality, integrations and technical troubleshooting.
 
-## 🔧 What I work with
+My approach combines practical development with evidence-based problem-solving: understand the issue, investigate its cause, implement a controlled change and verify the result.
 
-* WordPress & WooCommerce
-* PHP & MySQL
-* JavaScript
-* REST APIs & integrations
-* Custom plugins
-* ACF, Custom Post Types & WP_Query
-* Gutenberg, Kadence & Elementor
-* DNS, SSL & Cloudflare
-* Performance optimization
-* Migrations & maintenance
+## Technical Focus
 
-## 🧪 Projects & experiments
+- **WordPress:** Custom plugins, hooks, shortcodes, WordPress APIs, ACF and Custom Post Types
+- **WooCommerce:** Catalog customization, product functionality, cart and checkout workflows
+- **Backend:** PHP, MySQL and REST APIs
+- **Frontend:** JavaScript, HTML, CSS, Gutenberg and Elementor
+- **Site Operations:** DNS, SSL, Cloudflare, migrations and maintenance
 
-I use GitHub to document development work, technical experiments and projects related to the WordPress ecosystem.
+## Selected Projects
 
-## 🌱 Currently learning
+### [WP Diagnostic Toolkit](https://github.com/marcorubino-dev/wp-diagnostic-toolkit)
 
-* PHP
-* WordPress internals
-* Backend debugging
-* Server-side WordPress workflows
+A WordPress diagnostic plugin in active development.
 
-## 🧠 How I approach technical problems
+It organizes checks for the WordPress environment, installed plugins, server configuration and selected WooCommerce and multilingual integration signals.
+
+The project focuses on structured findings and practical evidence to support technical investigation. It is not yet a comprehensive auditing or monitoring solution.
+
+### [Woo Category Brand Manager](https://github.com/marco-developer-24/woo-category-brand-manager)
+
+A WooCommerce plugin that displays brands associated with the current product category, including logos or names, product counts and links for brand filtering.
+
+The implementation has documented limitations around catalog performance and automated testing.
+
+## How I Approach Technical Problems
 
 **Observe → Isolate → Diagnose → Fix → Verify**
 
-I prefer understanding the root cause of a problem before applying a fix.
+I prioritize understanding the underlying cause before changing code or configuration. I aim to make controlled changes and verify their results rather than rely on guesswork.
+
+## Current Technical Focus
+
+- WordPress internals and plugin architecture
+- Backend debugging and root-cause analysis
+- Reliable WooCommerce customizations
+- Maintainable code and technical documentation
+
+---
+
+*WordPress development grounded in practical problem-solving.*
