@@ -1,6 +1,6 @@
 # Hi, I'm Marco Rubino 👋
 
-**WordPress Developer | WooCommerce | Technical Troubleshooting**
+**WordPress Developer · WooCommerce · Technical Troubleshooting**
 
 📍 Córdoba, Argentina
 
@@ -8,15 +8,19 @@ I develop and customize WordPress websites and plugins, with a focus on WooComme
 
 My approach combines practical development with evidence-based problem-solving: understand the issue, investigate its cause, implement a controlled change and verify the result.
 
-## Technical Focus
+---
 
-- **WordPress:** Custom plugins, hooks, shortcodes, WordPress APIs, ACF and Custom Post Types
-- **WooCommerce:** Catalog customization, product functionality, cart and checkout workflows
-- **Backend:** PHP, MySQL and REST APIs
-- **Frontend:** JavaScript, HTML, CSS, Gutenberg and Elementor
-- **Site Operations:** DNS, SSL, Cloudflare, migrations and maintenance
+## 🧰 Technical Focus
 
-## Selected Projects
+| Area | Focus |
+| --- | --- |
+| **WordPress** | Custom plugins, hooks, shortcodes, WordPress APIs, ACF and Custom Post Types |
+| **WooCommerce** | Catalog customization, product functionality, cart and checkout workflows |
+| **Backend** | PHP, MySQL and REST APIs |
+| **Frontend** | JavaScript, HTML, CSS, Gutenberg and Elementor |
+| **Site Operations** | DNS, SSL, Cloudflare, migrations and maintenance |
+
+## 🛠️ Selected Projects
 
 ### [WP Diagnostic Toolkit](https://github.com/marcorubino-dev/wp-diagnostic-toolkit)
 
@@ -32,13 +36,15 @@ A WooCommerce plugin that displays brands associated with the current product ca
 
 The implementation has documented limitations around catalog performance and automated testing.
 
-## How I Approach Technical Problems
+---
+
+## 🔎 How I Approach Technical Problems
 
 **Observe → Isolate → Diagnose → Fix → Verify**
 
 I prioritize understanding the underlying cause before changing code or configuration. I aim to make controlled changes and verify their results rather than rely on guesswork.
 
-## Current Technical Focus
+## 📚 Current Technical Focus
 
 - WordPress internals and plugin architecture
 - Backend debugging and root-cause analysis
