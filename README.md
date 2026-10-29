@@ -1,12 +1,19 @@
-# Hi, I'm Marco Rubino 👋
+# Marco Rubino 👋
 
 **WordPress Developer · WooCommerce · Technical Troubleshooting**
 
 📍 Córdoba, Argentina
 
-I develop and customize WordPress websites and plugins, with a focus on WooCommerce functionality, integrations and technical troubleshooting.
+[![WordPress](https://img.shields.io/badge/WordPress-Developer-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-Customization-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 
-My approach combines practical development with evidence-based problem-solving: understand the issue, investigate its cause, implement a controlled change and verify the result.
+I build and customize WordPress websites and plugins, with a focus on WooCommerce functionality, integrations and technical troubleshooting.
+
+> **Observe → Isolate → Diagnose → Fix → Verify**
+>
+> Evidence-based problem-solving: understand the issue, investigate its cause, implement a controlled change and verify the result.
 
 ---
 
