@@ -45,12 +45,6 @@ The implementation has documented limitations around catalog performance and aut
 
 ---
 
-## 🔎 How I Approach Technical Problems
-
-**Observe → Isolate → Diagnose → Fix → Verify**
-
-I prioritize understanding the underlying cause before changing code or configuration. I aim to make controlled changes and verify their results rather than rely on guesswork.
-
 ## 📚 Current Technical Focus
 
 - WordPress internals and plugin architecture
