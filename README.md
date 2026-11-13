@@ -1,8 +1,8 @@
-# Marco Rubino 👋
+# Marco Rubino
 
 **WordPress Developer · Technical Support · WooCommerce**
 
-📍 Córdoba, Argentina
+Córdoba, Argentina
 
 [![WordPress](https://img.shields.io/badge/WordPress-Developer-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-Customization-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
@@ -11,7 +11,7 @@
 
 WordPress developer with **7+ years of hands-on experience** building, customizing and troubleshooting WordPress websites and plugins.
 
-I work with agencies and direct clients on technical support, WooCommerce functionality, integrations and targeted development. My focus is understanding the issue, identifying its cause and delivering a change that can be verified.
+I work with agencies and direct clients on technical support, WooCommerce functionality, integrations and targeted development. My approach is evidence-based: understand the issue, identify its cause and verify the result.
 
 > **Observe → Isolate → Diagnose → Fix → Verify**
 >
@@ -19,7 +19,7 @@ I work with agencies and direct clients on technical support, WooCommerce functi
 
 ---
 
-## 🧰 Technical Focus
+## Technical Focus
 
 | Area | Focus |
 | --- | --- |
@@ -30,19 +30,21 @@ I work with agencies and direct clients on technical support, WooCommerce functi
 | **Technical Support** | Plugin/theme conflicts, debugging, updates, integrations and reproducible troubleshooting |
 | **Site Operations** | cPanel, DNS, SSL, Cloudflare, migrations and maintenance |
 
-## 🛠️ Selected Projects
+---
+
+## Selected Projects
 
 ### [WP Diagnostic Toolkit](https://github.com/marcorubino-dev/wp-diagnostic-toolkit)
 
-**Status: Active development**
+**Active development**
 
 A modular WordPress diagnostic plugin designed to help developers inspect a site's environment, plugins, theme, server configuration and selected WooCommerce and multilingual integration signals.
 
-The goal is to organize technical findings and evidence that support a structured troubleshooting workflow. It is a diagnostic aid, not a comprehensive audit or monitoring solution.
+It organizes technical findings and evidence to support a structured troubleshooting workflow. It is a diagnostic aid, not a comprehensive audit or monitoring solution.
 
 ### [Meta CAPI for WooCommerce](https://github.com/marcorubino-dev/meta-capi-4-wp)
 
-**Status: Development project**
+**Development project**
 
 A WordPress plugin that connects browser-side Meta Pixel tracking with server-side Conversions API events for WooCommerce. It includes event configuration, event inspection and logging tools.
 
@@ -56,7 +58,7 @@ The implementation has documented limitations around catalog performance and aut
 
 ---
 
-## 📚 Current Technical Focus
+## Current Technical Focus
 
 - WordPress internals and maintainable plugin architecture
 - Backend debugging and root-cause analysis
@@ -64,7 +66,9 @@ The implementation has documented limitations around catalog performance and aut
 - Technical documentation and reproducible verification
 - Linux, Docker and backend application development
 
-## 🌐 Links
+---
+
+## Connect
 
 - **Portfolio:** [marcodeveloper.online](https://marcodeveloper.online/)
 - **LinkedIn:** [Marco Rubino](https://www.linkedin.com/in/marco-rubino19/)
