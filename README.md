@@ -83,6 +83,9 @@ For a closer look at my engineering projects, tools, and experiments, visit my [
 ## Connect
 
 - **Portfolio:** [marcodeveloper.online](https://marcodeveloper.online/)
+- **Upwork:** [View my Upwork profile](https://www.upwork.com/freelancers/~01c2e959a4bf005f1b)
+- **Workana:** [View my Workana profile](https://www.workana.com/freelancer/deac714b34222216bd0b73843ecd97b7)
+- **Fiverr:** [View my Fiverr profile](https://www.fiverr.com/s/YLoX384)
 - **LinkedIn:** [Marco Rubino](https://www.linkedin.com/in/marco-rubino19/)
 - **Development workspace:** [@marco-developer-24](https://github.com/marco-developer-24)
 
